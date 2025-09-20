@@ -1,5 +1,5 @@
 import React from 'react'
-import HeroContainer from './sections/HeroContainer'
+import HeroContainer from './sections/HeroContainer/HeroContainer'
 
 const page = () => {
   return (
